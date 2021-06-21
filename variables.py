@@ -1,5 +1,7 @@
 import json
 
+
+print("Hello!")
 result = """
 {
     "interfaces": {
